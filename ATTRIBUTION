@@ -16,8 +16,9 @@ Sources:
   sha256 (gzip bytes as served): 038ff3f7f3faf3b1ee869ba506996bec4279a7849e7a3d0f0662ebbfd8a8fdd7
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -35,8 +36,9 @@ Sources:
   sha256 (gzip bytes as served): b6b6202e4c64a85459257fa515d1aee0896439546793611ef1e007be6b11357e
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -58,8 +60,9 @@ Sources:
   sha256 (gzip bytes as served): 5a8b23c6fb548e9937cf7a24f8a42d7dec332987738e8d02a5e3ac34b4299c9c
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -81,8 +84,9 @@ Sources:
   sha256 (gzip bytes as served): 15dd8e0edacbbfba87a7e2daabb5339845263c0f374fda06621cd8f49372a4b5
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -100,8 +104,9 @@ Sources:
   sha256 (gzip bytes as served): e9efd0522d484c8fb59a108087d9c721a9735c227fb9296252e9603d6b631c09
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -123,8 +128,9 @@ Sources:
   sha256 (gzip bytes as served): c03bef08cfae32baabb156945fc718e3706352a16bb02fad2971fa7813a48af9
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -146,8 +152,9 @@ Sources:
   sha256 (gzip bytes as served): f4ed69e16ef4d27999d6593a2ff85aa2283a47cca66b3068674d27ca3a55205d
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -169,8 +176,9 @@ Sources:
   sha256 (gzip bytes as served): b42efdac0222176916d6953c78259c283e373e10a24b9ac42bb493501f5de75b
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries; pt-BR/pt-PT split by regional tags.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries; pt-BR/pt-PT split by regional tags.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -192,8 +200,9 @@ Sources:
   sha256 (gzip bytes as served): b42efdac0222176916d6953c78259c283e373e10a24b9ac42bb493501f5de75b
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries; pt-BR/pt-PT split by regional tags.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries; pt-BR/pt-PT split by regional tags.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -215,8 +224,9 @@ Sources:
   sha256 (gzip bytes as served): c5ec681ec507323a87e3b9a1e022e47e914cc9c1bcb13de00e805a022673bcda
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -234,8 +244,9 @@ Sources:
   sha256 (gzip bytes as served): 41088a3c03216c1fdf45bb4b231caa98e156fe1b3dca7b8cb162f61a7c379fed
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
@@ -253,8 +264,9 @@ Sources:
   sha256 (gzip bytes as served): ade63fb48454111f00254be747a52e74b15eac545a17429ada48f9921cab3b4d
 
 Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
-speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
-affix and table-header entries.
+speech and sense tags); lowercased and NFC-normalized keys; two-word
+headwords kept only as known words; dropped longer multiword, affix and
+table-header entries.
 Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
 License of this pack: CC BY-SA 4.0 (see LICENSE).
 
