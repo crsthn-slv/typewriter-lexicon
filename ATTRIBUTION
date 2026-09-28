@@ -1,0 +1,260 @@
+=== de ===
+Typewriter lexicon pack — de
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/German/kaikki.org-dictionary-German.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:24:41 GMT
+  sha256 (gzip bytes as served): 5759fef52efbb5c578301b0842c8e0217b9683b05ada69ec172870509a9b1828
+- https://kaikki.org/dewiktionary/Deutsch/kaikki.org-dictionary-Deutsch.jsonl
+  extracted on 2026-09-27 from the dewiktionary dump dated 2026-09-01
+  Last-Modified: Sun, 27 Sep 2026 04:27:16 GMT
+  sha256 (gzip bytes as served): 038ff3f7f3faf3b1ee869ba506996bec4279a7849e7a3d0f0662ebbfd8a8fdd7
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== en ===
+Typewriter lexicon pack — en
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/English/kaikki.org-dictionary-English.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:03:09 GMT
+  sha256 (gzip bytes as served): b6b6202e4c64a85459257fa515d1aee0896439546793611ef1e007be6b11357e
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== es ===
+Typewriter lexicon pack — es
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Spanish/kaikki.org-dictionary-Spanish.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:17:23 GMT
+  sha256 (gzip bytes as served): 50090665553c31d9a366975868088aa68ed8bc1245d7e9afd55b060f4b69839f
+- https://kaikki.org/eswiktionary/Espa%C3%B1ol/kaikki.org-dictionary-Espa%C3%B1ol.jsonl
+  extracted on 2026-09-27 from the eswiktionary dump dated 2026-09-01
+  Last-Modified: Sun, 27 Sep 2026 19:32:27 GMT
+  sha256 (gzip bytes as served): 5a8b23c6fb548e9937cf7a24f8a42d7dec332987738e8d02a5e3ac34b4299c9c
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== fr ===
+Typewriter lexicon pack — fr
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/French/kaikki.org-dictionary-French.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:13:39 GMT
+  sha256 (gzip bytes as served): 2e6560aaddf41ec703b6250477206f6be1221a4b518ad136869e523ac40d7766
+- https://kaikki.org/frwiktionary/Fran%C3%A7ais/kaikki.org-dictionary-Fran%C3%A7ais.jsonl
+  extracted on 2026-09-27 from the frwiktionary dump dated 2026-09-01
+  Last-Modified: Sun, 27 Sep 2026 07:17:54 GMT
+  sha256 (gzip bytes as served): 15dd8e0edacbbfba87a7e2daabb5339845263c0f374fda06621cd8f49372a4b5
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== it ===
+Typewriter lexicon pack — it
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/itwiktionary/Italiano/kaikki.org-dictionary-Italiano.jsonl
+  extracted on 2026-09-28 from the itwiktionary dump dated 2026-09-01
+  Last-Modified: Mon, 28 Sep 2026 04:29:29 GMT
+  sha256 (gzip bytes as served): e9efd0522d484c8fb59a108087d9c721a9735c227fb9296252e9603d6b631c09
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== nl ===
+Typewriter lexicon pack — nl
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Dutch/kaikki.org-dictionary-Dutch.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:11:36 GMT
+  sha256 (gzip bytes as served): ddf47c90e6a1a3431aea7e9b31889714b80c4971752c99eeb2b3349d0de0c813
+- https://kaikki.org/nlwiktionary/Nederlands/kaikki.org-dictionary-Nederlands.jsonl
+  extracted on 2026-09-28 from the nlwiktionary dump dated 2026-09-01
+  Last-Modified: Mon, 28 Sep 2026 01:58:34 GMT
+  sha256 (gzip bytes as served): c03bef08cfae32baabb156945fc718e3706352a16bb02fad2971fa7813a48af9
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== pl ===
+Typewriter lexicon pack — pl
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Polish/kaikki.org-dictionary-Polish.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:22:54 GMT
+  sha256 (gzip bytes as served): 785f7741f4f4bf5ddb036c10d7b313aeff0a5b1ee2701a207101b9c6d4e4f111
+- https://kaikki.org/plwiktionary/j%C4%99zyk%20polski/kaikki.org-dictionary-j%C4%99zykpolski.jsonl
+  extracted on 2026-09-28 from the plwiktionary dump dated 2026-09-01
+  Last-Modified: Mon, 28 Sep 2026 00:36:02 GMT
+  sha256 (gzip bytes as served): f4ed69e16ef4d27999d6593a2ff85aa2283a47cca66b3068674d27ca3a55205d
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== pt-BR ===
+Typewriter lexicon pack — pt-BR
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Portuguese/kaikki.org-dictionary-Portuguese.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:00:00 GMT
+  sha256 (gzip bytes as served): b734325037c991d512f832b922be45735822b07a8770b12790dd127ac16ce84f
+- https://kaikki.org/ptwiktionary/Portugu%C3%AAs/kaikki.org-dictionary-Portugu%C3%AAs.jsonl
+  extracted on 2026-09-28 from the ptwiktionary dump dated 2026-09-01
+  Last-Modified: Mon, 28 Sep 2026 03:47:48 GMT
+  sha256 (gzip bytes as served): b42efdac0222176916d6953c78259c283e373e10a24b9ac42bb493501f5de75b
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries; pt-BR/pt-PT split by regional tags.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== pt-PT ===
+Typewriter lexicon pack — pt-PT
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Portuguese/kaikki.org-dictionary-Portuguese.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:00:00 GMT
+  sha256 (gzip bytes as served): b734325037c991d512f832b922be45735822b07a8770b12790dd127ac16ce84f
+- https://kaikki.org/ptwiktionary/Portugu%C3%AAs/kaikki.org-dictionary-Portugu%C3%AAs.jsonl
+  extracted on 2026-09-28 from the ptwiktionary dump dated 2026-09-01
+  Last-Modified: Mon, 28 Sep 2026 03:47:48 GMT
+  sha256 (gzip bytes as served): b42efdac0222176916d6953c78259c283e373e10a24b9ac42bb493501f5de75b
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries; pt-BR/pt-PT split by regional tags.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== ru ===
+Typewriter lexicon pack — ru
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Russian/kaikki.org-dictionary-Russian.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 09:53:41 GMT
+  sha256 (gzip bytes as served): a33d34f074b07ec0cc79bc6601e07bb56c3a14847b6d9bf1c8e093c3c607c8cf
+- https://kaikki.org/ruwiktionary/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9/kaikki.org-dictionary-%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9.jsonl
+  extracted on 2026-09-27 from the ruwiktionary dump dated 2026-09-01
+  Last-Modified: Sun, 27 Sep 2026 21:09:48 GMT
+  sha256 (gzip bytes as served): c5ec681ec507323a87e3b9a1e022e47e914cc9c1bcb13de00e805a022673bcda
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== sv ===
+Typewriter lexicon pack — sv
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Swedish/kaikki.org-dictionary-Swedish.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:08:05 GMT
+  sha256 (gzip bytes as served): 41088a3c03216c1fdf45bb4b231caa98e156fe1b3dca7b8cb162f61a7c379fed
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
+=== tr ===
+Typewriter lexicon pack — tr
+
+Data: Wiktionary contributors, https://www.wiktionary.org/ (CC BY-SA 4.0).
+Extraction: Wiktextract (Tatu Ylonen, https://github.com/tatuylonen/wiktextract),
+distributed by https://kaikki.org/.
+
+Sources:
+- https://kaikki.org/dictionary/Turkish/kaikki.org-dictionary-Turkish.jsonl
+  extracted on 2026-09-25 from the enwiktionary dump dated 2026-09-02
+  Last-Modified: Fri, 25 Sep 2026 10:21:00 GMT
+  sha256 (gzip bytes as served): ade63fb48454111f00254be747a52e74b15eac545a17429ada48f9921cab3b4d
+
+Changes: kept only word forms → lemma(s) and per-sense synonyms (with part of
+speech and sense tags); lowercased and NFC-normalized keys; dropped multiword,
+affix and table-header entries.
+Built by scripts/lexicon/build.mjs (https://github.com/ — Typewriter repo).
+License of this pack: CC BY-SA 4.0 (see LICENSE).
+
